@@ -23,10 +23,3 @@ my-node-app/
     └── workflows/
         └── main.yml
 
-
-🔐 Secrets Configuration
-Add the following secrets to your GitHub repository:
-
-# Secret Name	Description
-DOCKER_USERNAME	Your DockerHub username
-DOCKER_PASSWORD	Your DockerHub password/token
